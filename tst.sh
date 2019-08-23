@@ -5,7 +5,7 @@ start(){
 	clear
 	echo -e "\e[33m \e[31mCode: \e[37mAhmet Keskin 
    
-Tool Name: Wordlist-Pluas\n\n\n"
+Tool Name: Wordlistolusturucu\n\n\n"
 
 
 
